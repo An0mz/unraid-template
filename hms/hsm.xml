@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support>https://forums.unraid.net/topic/169676-donkevlar-docker-templates/</Support>
+  <Support>https://forums.unraid.net/forum/47-docker-containers/</Support>
   <Project>https://github.com/An0mz/HytaleServerManager</Project>
   <Overview>Modern web-based management panel for Hytale servers with Docker support, real-time console, OAuth authentication, and automated backups</Overview>
   <Category>GameServers:</Category>
@@ -17,7 +17,7 @@
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1768689465</DateInstalled>
+  <DateInstalled>1768689661</DateInstalled>
   <DonateText/>
   <DonateLink/>
   <Requires/>
